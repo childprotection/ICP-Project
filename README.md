@@ -1,3 +1,3 @@
 # ICP-Project
 Activity Monitoring Tools
-Hi ICP project
+of ICP project
